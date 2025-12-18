@@ -1,0 +1,23 @@
+﻿Risk code,Risk descriptions,Probability_e,Severity_injuries_e,Severity_fatalities_e,Severity_injury_rate_e,Severity_fatality_rate_e
+R1,Trapped in or between objects,0.05,146,2,44.56,0.51
+R2,Injured whilst lifting or carrying,0.19,602,0,183.41,0
+R3,"Slip, trip or fall on same level",0.29,925,1,281.57,0.2
+R4,Fall of person from height,0.08,240,9,72.98,2.84
+R5,Striking against fixed or stationary object,0.11,334,0,101.6,0.1
+R6,Striking against or struck by moving object,0.1,308,1,93.69,0.41
+R7,Stepping on object,0.01,32,0,9.74,0
+R8,Exposure to or contact with harmful substance,0,14,1,4.16,0.2
+R9,Contact with electricity or electric discharge,0,9,1,2.84,0.3
+R10,Trapped by collapsing or overturning object,0,12,3,3.55,1.02
+R11,Struck by falling object,0.05,167,1,50.85,0.3
+R12,Struck by moving vehicle,0,27,0,8.12,0.1
+R13,Contact with moving machinery or object being machined,0.06,180,0,54.81,0
+R14,Drowning,0,0,0,0,0
+R15,Exposure to fire,0,4,0,1.22,0
+R16,Exposure to explosion,0,3,0,1.02,0
+R17,Injured by hand tool,0.03,95,0,29.03,0
+R18,Injured by fall of ground,0,0,0,0,0
+R19,Asphyxiation,0,2,1,0.51,0.41
+R20,Contact with hot surface or substance,0,14,0,4.16,0
+R21,Injured by animal,0,5,0,1.62,0
+R22,Injured in workplace violence,0,15,0,4.67,0
