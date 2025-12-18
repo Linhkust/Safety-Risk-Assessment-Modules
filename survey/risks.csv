@@ -1,0 +1,23 @@
+﻿Risk code,Risk descriptions
+R1,Trapped in or between objects
+R2,Injured whilst lifting or carrying
+R3,"Slip, trip or fall on same level"
+R4,Fall of person from height
+R5,Striking against fixed or stationary object
+R6,Striking against or struck by moving object
+R7,Stepping on object
+R8,Exposure to or contact with harmful substance
+R9,Contact with electricity or electric discharge
+R10,Trapped by collapsing or overturning object
+R11,Struck by falling object
+R12,Struck by moving vehicle
+R13,Contact with moving machinery or object being machined
+R14,Drowning
+R15,Exposure to fire
+R16,Exposure to explosion
+R17,Injured by hand tool
+R18,Injured by fall of ground
+R19,Asphyxiation
+R20,Contact with hot surface or substance
+R21,Injured by animal
+R22,Injured in workplace violence
